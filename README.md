@@ -1,10 +1,26 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/yogya-pundir/shopping-cart.git).
 
 ## Available Scripts
 
+## `technology Stack`
+Reactjs : 18.2.0
+Redux   : 4.2.0
+Typescript : 4.7.4
+Material UI : 4.12.4
+
+### `How to use`
+
+Download or Clone repository : 
+https://github.com/yogya-pundir/shopping-cart.git
+
+cd project
+
 In the project directory, you can run:
+
+### `npm install`
+Installs all the dependencies of project.
 
 ### `npm start`
 
