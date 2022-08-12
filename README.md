@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/yogya-p
 
 ## Available Scripts
 
-## `technology Stack`
+## `Technology Stack`
 Reactjs : 18.2.0
 Redux   : 4.2.0
 Typescript : 4.7.4
